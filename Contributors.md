@@ -10,6 +10,7 @@
 - Patrick M Copeland
 - JLJ
 - Marcin Maruszak
+- Mara_dev
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - Clay Lanzino
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
